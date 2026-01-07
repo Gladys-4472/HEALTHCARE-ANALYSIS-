@@ -1,4 +1,4 @@
-# HEALTHCARE-ANALYSIS-
+# HEALTHCARE-ANALYSIS
 This project demonstrates the ability to perform end-to-end data analysis using Power BI — from raw data cleaning to insight generation. The dashboard provides actionable insights that can help hospital management optimize resources, control costs, and improve patient outcomes through data-driven decisions.
 
 ##  Project Overview
@@ -131,11 +131,12 @@ Time-intelligence analysis (MoM)
 KPI design & reporting
 Business storytelling with data
 ## Dashboard Preview
+<img width="858" height="479" alt="Hospital Performance   Patient Analytics Dashboard" src="https://github.com/user-attachments/assets/25a5f8c1-0c99-4b07-93c6-6f6d9c544ee5" />
 
 ## Contact
-Gladys Okedare
-Aspiring Data Analyst
-LinkedIn: (add your LinkedIn link)
+#### Gladys Okedare
+#### Aspiring Data Analyst
+#### LinkedIn: (https://www.linkedin.com/in/gladys-okedare-51462127b)
 
 
 
